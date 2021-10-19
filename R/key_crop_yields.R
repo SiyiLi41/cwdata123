@@ -1,5 +1,5 @@
 
-#' Titlenof the data
+#' Title of the data
 #'
 #' More details about the data
 #'
@@ -8,8 +8,8 @@
 #'
 #' @format A data frme with 53940 rows and 10 variables:
 #'   \describe{
-#'    \item{price}{price, in US dollar}
-#'    \item{carat}{weight of diamonds, in carat}
+#'    \item{Entity}{Country}
+#'    \item{tonnes_per_hectare}{yield}
 #'    ...
 #'  }
 #'

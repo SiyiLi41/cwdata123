@@ -3,12 +3,12 @@
 \docType{data}
 \name{key_crop_yields}
 \alias{key_crop_yields}
-\title{Titlenof the data}
+\title{Title of the data}
 \format{
 A data frme with 53940 rows and 10 variables:
 \describe{
-\item{price}{price, in US dollar}
-\item{carat}{weight of diamonds, in carat}
+\item{Entity}{Country}
+\item{tonnes_per_hectare}{yield}
 ...
 }
 }

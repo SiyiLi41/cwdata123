@@ -20,7 +20,8 @@ devtools::install_github("SiyiLi41/cwdata123")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This package provides many great datasets used in Communicating with
+Data.
 
 ``` r
 library(cwdata123)
