@@ -1,0 +1,13 @@
+Package: cwdata123
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person( First = "Siyi",
+            Last = "Li", 
+            email = "slii0048@student.monash.edu", 
+            role = c("aut", "cre"))
+Description: Lots and lots of the datasets (but not really, just one).
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
