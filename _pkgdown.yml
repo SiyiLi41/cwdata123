@@ -1,0 +1,20 @@
+url: https://github.com/SiyiLi41
+
+development:
+  mode: auto
+
+authors:
+  Siyi Li:
+    href: https://github.com/SiyiLi41/cwdata/blob/master/vignettes/Key_Crop_Yields.Rmd
+
+
+navbar:
+  type: default
+  left:
+  - text: Crop yields
+    href: articles/Key_Crop_Yields.html
+  - text: Reference
+    href: reference/index.html
+  - text: Changelog
+    herf: news/index.html
+
