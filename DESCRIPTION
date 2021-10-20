@@ -16,3 +16,12 @@ BugReports: https://github.com/SiyiLi41/cwdata123/issues
 Depends: 
     R (>= 2.10)
 LazyData: true
+Imports:
+  tibble
+Suggests: 
+    rmarkdown,
+    knitr,
+    ggplot2,
+    dplyr,
+    forcats
+VignetteBuilder: knitr
